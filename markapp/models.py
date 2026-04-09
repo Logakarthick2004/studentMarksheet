@@ -7,4 +7,4 @@ class marksheet(models.Model):
     tamil = models.CharField(max_length=50)
     english = models.CharField(max_length=50)
     python = models.CharField(max_length=50)
-    java = models.CharField(max_length=50)
+    javascripts = models.CharField(max_length=50)
